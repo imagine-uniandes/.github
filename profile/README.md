@@ -20,7 +20,6 @@ Las principales áreas de aplicación incluyen biomedicina, entretenimiento, dis
 6. [ViveSpacialPerceptionTests](https://github.com/imagine-uniandes/ViveSpacialPerceptionTests): Conjunto de pruebas diseñadas para evaluar la percepción espacial en entornos de realidad virtual utilizando HTC Vive.
 8. [ViveTheatrePiccolo](https://github.com/imagine-uniandes/ViveTheatrePiccolo): Proyecto que simula una experiencia teatral en un entorno virtual, desarrollado para HTC Vive.
 7. [DistanceSizePerceptionTests](https://github.com/imagine-uniandes/DistanceSizePerceptionTests): Pruebas enfocadas en analizar cómo los usuarios perciben la distancia y el tamaño de los objetos en entornos virtuales.
-9. [web_data](https://github.com/imagine-uniandes/web_data): Repositorio que almacena datos utilizados en diversos proyectos web del grupo IMAGINE.
 
 ## Enlaces de Interés
 
